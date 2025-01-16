@@ -16,6 +16,29 @@ Key milestones include:
 - 2020 (C# 9.0): Records and improved null safety.
 C# remains a top choice for enterprise applications, game development (Unity), and web services, constantly evolving to meet modern development needs.
 
+## Datatypes
+
+| **Category**      | **Data Type**       | **Description**                                  | **Size**          | **Default Value** |
+|--------------------|---------------------|--------------------------------------------------|-------------------|-------------------|
+| **Value Types**    | `byte`             | Unsigned integer                                | 8 bits            | `0`               |
+|                    | `sbyte`            | Signed integer                                  | 8 bits            | `0`               |
+|                    | `short`            | Signed integer                                  | 16 bits           | `0`               |
+|                    | `ushort`           | Unsigned integer                                | 16 bits           | `0`               |
+|                    | `int`              | Signed integer                                  | 32 bits           | `0`               |
+|                    | `uint`             | Unsigned integer                                | 32 bits           | `0`               |
+|                    | `long`             | Signed integer                                  | 64 bits           | `0`               |
+|                    | `ulong`            | Unsigned integer                                | 64 bits           | `0`               |
+|                    | `float`            | Single-precision floating-point number          | 32 bits           | `0.0f`            |
+|                    | `double`           | Double-precision floating-point number          | 64 bits           | `0.0d`            |
+|                    | `decimal`          | High-precision floating-point number            | 128 bits          | `0.0m`            |
+|                    | `char`             | Single Unicode character                        | 16 bits           | `'\0'`            |
+|                    | `bool`             | Boolean value (`true` or `false`)               | 1 bit (logical)   | `false`           |
+| **Reference Types**| `string`           | Sequence of Unicode characters                  | Variable          | `null`            |
+|                    | `object`           | Base type of all types in .NET                  | Variable          | `null`            |
+| **Special Types**  | `dynamic`          | Type resolved at runtime                        | Variable          | `null`            |
+|                    | `var`              | Inferred type determined at compile-time        | N/A               | N/A               |
+| **Nullable Types** | `T?`               | Represents a value type that can be `null`      | N/A               | `null`            |
+
 ## Table of Content
 1. Hello World.
 
