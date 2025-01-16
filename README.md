@@ -9,11 +9,11 @@ C# is a modern, object-oriented programming language developed by Anders Hejlsbe
 
 Key milestones include:
 
-= 2005 (C# 2.0): Generics and nullable types.
-= 2007 (C# 3.0): LINQ and lambda expressions.
-= 2012 (C# 5.0): Async/await for asynchronous programming.
-= 2014: Became open source with .NET Core.
-= 2020 (C# 9.0): Records and improved null safety.
+- 2005 (C# 2.0): Generics and nullable types.
+- 2007 (C# 3.0): LINQ and lambda expressions.
+- 2012 (C# 5.0): Async/await for asynchronous programming.
+- 2014: Became open source with .NET Core.
+- 2020 (C# 9.0): Records and improved null safety.
 C# remains a top choice for enterprise applications, game development (Unity), and web services, constantly evolving to meet modern development needs.
 
 ## Table of Content
