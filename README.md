@@ -42,6 +42,7 @@ C# remains a top choice for enterprise applications, game development (Unity), a
 ## Table of Content
 1. Hello World.
 2. Foundations.
-3. Loops
+3. Loops.
+4. Methods.
 
 Gdpp - 👽
