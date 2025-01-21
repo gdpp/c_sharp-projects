@@ -45,9 +45,10 @@ C# remains a top choice for enterprise applications, game development (Unity), a
 3. Loops.
 4. Methods.
 5. WheaterSimulator.
-6. Recap No.1
+6. Recap No.1:
    - Easy Exercise: Basic Arithmetic and User Input
    - Intermediate Exercise: Analyze an Array of Numbers
    - Difficult Exercise: Guess the Number Game
+7. POO I,
 
 Gdpp - 👽
