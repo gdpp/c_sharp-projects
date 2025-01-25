@@ -51,5 +51,9 @@ C# remains a top choice for enterprise applications, game development (Unity), a
    - Difficult Exercise: Guess the Number Game
 7. POO I.
 8. Collections.
+9. Recap No.2:
+    - Easy Exercise: Temperature converter.
+    - Intermediate Exercise: Books Micro system.
+    - Difficult Exercise: Employees Management tiny.
 
 Gdpp - 👽
