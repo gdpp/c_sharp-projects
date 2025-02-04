@@ -55,5 +55,6 @@ C# remains a top choice for enterprise applications, game development (Unity), a
     - Easy Exercise: Temperature converter.
     - Intermediate Exercise: Books Micro system.
     - Difficult Exercise: Employees Management tiny.
+10. Error Handling
 
 Gdpp - 👽
